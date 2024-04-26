@@ -28,6 +28,8 @@
 
 ### To add block-level items inside a list item, indent the entire block-level item to the same level
 
+###### Markdown code:
+
 ````md
 - Problem Solving
 - Continuous Learning
@@ -44,6 +46,8 @@
 - Community Support
 - Versatility
 ````
+
+###### Rendered example:
 
 - Problem Solving
 - Continuous Learning
@@ -62,6 +66,8 @@
 
 ## Ordered list (`<ol>`)
 
+###### Markdown code:
+
 ```md
 _Top 10 Reasons Why My Code Isn't Working_
 
@@ -76,6 +82,8 @@ _Top 10 Reasons Why My Code Isn't Working_
 9. Put my code in a crate for timeout. Now it's howling for help.
 10. Used copy-paste. Now my code thinks it's a clone army.
 ```
+
+###### Rendered example:
 
 _Top 10 Reasons Why My Code Isn't Working_
 
@@ -92,6 +100,8 @@ _Top 10 Reasons Why My Code Isn't Working_
 
 ### Only the first number matters. Change it to start the list at a different number
 
+###### Markdown code:
+
 ```md
 1. First item
 2. Second item
@@ -102,19 +112,27 @@ _Top 10 Reasons Why My Code Isn't Working_
 2. Second item
 3. Third item
 
+###### Rendered example:
+
 #### Starting with 7:
+
+###### Markdown code:
 
 ```md
 7. Seven things
 8. Eight things
 9. Nine things
 ```
+
+###### Rendered example:
 
 7. Seven things
 8. Eight things
 9. Nine things
 
 ## Definition List
+
+###### Markdown code:
 
 ```md
 _Reasons Why Debugging Feels Like Walking a Dog_
@@ -142,6 +160,8 @@ _Reasons Why Debugging Feels Like Walking a Dog_
   <dd>Your code jumping on strangers, like crashing unexpectedly.</dd>
 </dl>
 ```
+
+###### Rendered example:
 
 _Reasons Why Debugging Feels Like Walking a Dog_
 
@@ -170,6 +190,8 @@ _Reasons Why Debugging Feels Like Walking a Dog_
 
 ## Task Lists
 
+###### Markdown code:
+
 ```md
 - [ ] **Fix that one bug that only happens on Fridays.** It's like the code knows it's the end of the week.
 - [ ] **Figure out why the code works on your machine but not on production.** Maybe the production server has stage fright.
@@ -183,7 +205,7 @@ _Reasons Why Debugging Feels Like Walking a Dog_
 - [ ] **Celebrate fixing a bug with a victory dance.** Because every squashed bug deserves a party.
 ```
 
-```
+###### Rendered example:
 
 - [ ] **Fix that one bug that only happens on Fridays.** It's like the code knows it's the end of the week.
 - [ ] **Figure out why the code works on your machine but not on production.** Maybe the production server has stage fright.
@@ -198,7 +220,9 @@ _Reasons Why Debugging Feels Like Walking a Dog_
 
 ## Collapsed sections
 
-```
+###### Markdown code:
+
+````
 
 <details>
 
@@ -214,10 +238,12 @@ You can add an image or a code block, too.
 
 ```ruby
    puts "Hello World"
-```
+````
 
 </details>
 ````
+
+###### Rendered example:
 
 <details>
 
@@ -239,6 +265,8 @@ You can add an image or a code block, too.
 
 ## Links
 
+###### Markdown code:
+
 ```md
 - https://virtualcoffee.io
 - [VirtualCoffeeIO](https://virtualcoffee.io)
@@ -252,6 +280,8 @@ You can add an image or a code block, too.
   - Multiple lines:
     https://github.com/danieltott/github-flavored-markdown-wonderland/blob/ae4e1524ed0fd15ab3d861a5137cb723c917ed0c/README.md?plain=1#L8-L14
 ```
+
+###### Rendered example:
 
 - https://virtualcoffee.io
 - [VirtualCoffeeIO](https://virtualcoffee.io)
@@ -267,13 +297,19 @@ You can add an image or a code block, too.
 
 ## Previewing Colors
 
+###### Markdown code:
+
 ```md
 I was thinking about using `#006699` for the header and `#ff0000` for the footer, what do you think?
 ```
 
+###### Rendered example:
+
 I was thinking about using `#006699` for the header and `#ff0000` for the footer, what do you think?
 
 ## Footnotes
+
+###### Markdown code:
 
 ```md
 Here is a simple footnote[^1].
@@ -289,6 +325,8 @@ The footnotes do not have to be at the bottom of the content - but they will alw
 
 [^3]: See?
 ```
+
+###### Rendered example:
 
 Here is a simple footnote[^1].
 
@@ -304,6 +342,8 @@ The footnotes do not have to be at the bottom of the content - but they will alw
 [^3]: See?
 
 ## Alerts!
+
+###### Markdown code:
 
 ```md
 > [!NOTE]
@@ -321,6 +361,8 @@ The footnotes do not have to be at the bottom of the content - but they will alw
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 ```
+
+###### Rendered example:
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
