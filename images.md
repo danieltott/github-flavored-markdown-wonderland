@@ -16,24 +16,24 @@
 
 ###### Rendered example:
 
-![99 little bugs in the code](./img/hacking.gif 'This is my life')
+![99 little bugs in the code](./img/bugs-2.jpg 'This is my life')
 
 ###### Markdown code:
 
 ```md
-![99 little bugs in the code](./img/hacking.gif 'This is my life')
+![99 little bugs in the code](./img/bugs-2.jpg 'This is my life')
 ```
 
 ## Image in repo
 
 ###### Rendered example:
 
-![This is my alt text](./img/hacking.gif 'HACKING')
+![100% real animated gif of me hacking](./img/hacking.gif 'HACKING')
 
 ###### Markdown code:
 
 ```md
-![This is my alt text](./img/hacking.gif 'HACKING')
+![100% real animated gif of me hacking](./img/hacking.gif 'HACKING')
 ```
 
 ## Switching images based on theme
