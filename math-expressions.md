@@ -1,4 +1,4 @@
-# Math Expressions
+# Math Expressions using [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 ## Inline expressions
 
