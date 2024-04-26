@@ -2,6 +2,8 @@
 
 ## Unordered list (`<ul>`)
 
+### Markdown code:
+
 ```md
 - Problem Solving
 - Continuous Learning
@@ -12,6 +14,8 @@
 - Community Support
 - Versatility
 ```
+
+### Rendered example:
 
 - Problem Solving
 - Continuous Learning
