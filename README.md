@@ -1,4 +1,4 @@
-# github-flavored-markdown-wonderland
+# GitHub-Flavored Markdown Wonderland
 
 Examples and resources for GitHub-Flavored Markdown
 
