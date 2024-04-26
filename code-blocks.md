@@ -24,3 +24,11 @@ ThisIsSomeFancyCode() {
 +  dontsee?.it();
 }
 ```
+
+## Escape code fence inside code fence
+
+````md
+```
+This is an example of a code fence
+```
+````
