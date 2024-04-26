@@ -127,6 +127,11 @@ You can add an image or a code block, too.
 - #1
 - https://github.com/Virtual-Coffee/virtualcoffee.io/issues/13
 - Virtual-Coffee/virtualcoffee.io#13
+- Linking to lines of code on github:
+  - Single line:
+    https://github.com/danieltott/github-flavored-markdown-wonderland/blob/ae4e1524ed0fd15ab3d861a5137cb723c917ed0c/README.md?plain=1#L6
+  - Multiple lines:
+    https://github.com/danieltott/github-flavored-markdown-wonderland/blob/ae4e1524ed0fd15ab3d861a5137cb723c917ed0c/README.md?plain=1#L8-L14
 
 ## Previewing Colors
 
