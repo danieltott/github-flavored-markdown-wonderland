@@ -2,6 +2,18 @@
 
 ## General formatting
 
+###### Markdown code:
+
+```md
+There’s only one thing I hate more than lying: _skim milk_. Which is water that’s lying about being milk. The less I know about other people’s affairs, **the happier I am**. I’m not interested in caring about people.
+
+> I once worked with a guy for three years and never learned his name. _Best friend I ever had_.
+
+We still never talk sometimes. Dear frozen yogurt, you are the celery of desserts. Be ice cream, or be nothing<sup>TM</sup>.
+```
+
+###### Rendered example:
+
 There’s only one thing I hate more than lying: _skim milk_. Which is water that’s lying about being milk. The less I know about other people’s affairs, **the happier I am**. I’m not interested in caring about people.
 
 > I once worked with a guy for three years and never learned his name. _Best friend I ever had_.
