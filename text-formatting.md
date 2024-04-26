@@ -99,6 +99,26 @@
 - [ ] **Try to remember why you chose this career in the first place.** Oh right, because you love staring at a screen for 8+ hours a day.
 - [ ] **Celebrate fixing a bug with a victory dance.** Because every squashed bug deserves a party.
 
+## Collapsed sections
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+Just make sure there is a full line break between the `</summary>` tag and your markdown.
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 ## Links
 
 - https://virtualcoffee.io
