@@ -2,7 +2,16 @@
 
 ## Unordered list (`<ul>`)
 
-### My Favorite Things About Programming
+```md
+- Problem Solving
+- Continuous Learning
+- Creativity
+  - Endless possibilities with code
+  - Turning ideas into reality
+  - Finding elegant solutions
+- Community Support
+- Versatility
+```
 
 - Problem Solving
 - Continuous Learning
@@ -14,8 +23,6 @@
 - Versatility
 
 ### To add block-level items inside a list item, indent the entire block-level item to the same level
-
-### My Favorite Things About Programming
 
 - Problem Solving
 - Continuous Learning
